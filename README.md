@@ -3,6 +3,6 @@
 
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on instagram.
-- 📫 How to reach me: I am active on insta @bhuvancom
+- 📫 How to reach me: I am active on insta @roshancodes
 - 💬 Ask me about Flutter
 - 😄 Pronouns: He/his
